@@ -10,7 +10,6 @@
   --dark-grey: #201f26;
   --light-grey: #f5f6f7;
   --light-green: #91b87c;
-  --yellow: #91b87c;
   --green: #91b87c;
   --dark-green: #91b87c;
 }
@@ -66,7 +65,7 @@ textarea {
 }
 
 .btn:hover {
-  background-image: linear-gradient(var(--yellow), var(--dark-green));
+  background-image: linear-gradient(var(--green), var(--dark-green));
 }
 
 #result {
